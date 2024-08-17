@@ -1,23 +1,23 @@
 {
-  "name": "Catppuccin Mocha",
-  "tab": 
-  {
-      "background": "#1E1E2EFF",
-      "iconStyle": "default",
-      "showCloseButton": "always",
-      "unfocusedBackground": "#00000000"
-  },
-  "tabRow": 
-  {
-      "background": "#11111BFF",
-      "unfocusedBackground": "#181926FF"
-  },
-  "window": 
-  {
-      "applicationTheme": "dark",
-      "experimental.rainbowFrame": false,
-      "frame": null,
-      "unfocusedFrame": null,
-      "useMica": false
-  }
+    "name": "Catppuccin Mocha",
+    "tab": 
+    {
+        "background": "#1E1E2EFF",
+        "iconStyle": "default",
+        "showCloseButton": "always",
+        "unfocusedBackground": "#00000000"
+    },
+    "tabRow": 
+    {
+        "background": "#11111BFF",
+        "unfocusedBackground": "#181825FF"
+    },
+    "window": 
+    {
+        "applicationTheme": "dark",
+        "experimental.rainbowFrame": false,
+        "frame": null,
+        "unfocusedFrame": null,
+        "useMica": false
+    }
 }

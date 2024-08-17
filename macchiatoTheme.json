@@ -1,23 +1,23 @@
 {
-  "name": "Catppuccin Macchiato",
-  "tab": 
-  {
-      "background": "#24273AFF",
-      "iconStyle": "default",
-      "showCloseButton": "always",
-      "unfocusedBackground": "#00000000"
-  },
-  "tabRow": 
-  {
-      "background": "#181926FF",
-      "unfocusedBackground": "#1E2030FF"
-  },
-  "window": 
-  {
-      "applicationTheme": "dark",
-      "experimental.rainbowFrame": false,
-      "frame": null,
-      "unfocusedFrame": null,
-      "useMica": false
-  }
+    "name": "Catppuccin Macchiato",
+    "tab": 
+    {
+        "background": "#24273AFF",
+        "iconStyle": "default",
+        "showCloseButton": "always",
+        "unfocusedBackground": "#00000000"
+    },
+    "tabRow": 
+    {
+        "background": "#181926FF",
+        "unfocusedBackground": "#1E2030FF"
+    },
+    "window": 
+    {
+        "applicationTheme": "dark",
+        "experimental.rainbowFrame": false,
+        "frame": null,
+        "unfocusedFrame": null,
+        "useMica": false
+    }
 }
