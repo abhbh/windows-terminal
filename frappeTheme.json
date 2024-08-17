@@ -1,15 +1,23 @@
 {
   "name": "Catppuccin Frappe",
-  "tab": {
-    "background": "#303446FF",
-    "showCloseButton": "always",
-    "unfocusedBackground": null
+  "tab": 
+  {
+      "background": "#303446FF",
+      "iconStyle": "default",
+      "showCloseButton": "always",
+      "unfocusedBackground": "#00000000"
   },
-  "tabRow": {
-    "background": "#292C3CFF",
-    "unfocusedBackground": "#232634FF"
+  "tabRow": 
+  {
+      "background": "#1E2030FF",
+      "unfocusedBackground": "#292C3CFF"
   },
-  "window": {
-    "applicationTheme": "dark"
+  "window": 
+  {
+      "applicationTheme": "dark",
+      "experimental.rainbowFrame": false,
+      "frame": null,
+      "unfocusedFrame": null,
+      "useMica": false
   }
 }
